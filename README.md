@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Project</title>
+  <title>My trial Project</title>
 </head>
 <body>
   <h1>Hello GitHub!</h1>
